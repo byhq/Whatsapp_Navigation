@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="tab_text_1">Chat</string>
+    <string name="tab_text_2">Status</string>
+    <string name="tab_text_3">Panggilan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
